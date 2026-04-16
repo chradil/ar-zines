@@ -1,0 +1,11 @@
+Model Information:
+* title:	Halva the Chicken
+* source:	https://sketchfab.com/3d-models/halva-the-chicken-ab37ae9021dc4aa29c4cee9778646470
+* author:	Pia Heugel (https://sketchfab.com/piaheugel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Halva the Chicken" (https://sketchfab.com/3d-models/halva-the-chicken-ab37ae9021dc4aa29c4cee9778646470) by Pia Heugel (https://sketchfab.com/piaheugel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
