@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hide-the-turtle
+* source:	https://sketchfab.com/3d-models/hide-the-turtle-24aa24f052f941ad812bf1446f4f32de
+* author:	eyork4633 (https://sketchfab.com/eyork4633)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hide-the-turtle" (https://sketchfab.com/3d-models/hide-the-turtle-24aa24f052f941ad812bf1446f4f32de) by eyork4633 (https://sketchfab.com/eyork4633) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
